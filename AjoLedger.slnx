@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AjoLedger.Api/AjoLedger.Api.csproj" />
+  <Project Path="AjoLedger.Tests/AjoLedger.Tests.csproj" />
+</Solution>

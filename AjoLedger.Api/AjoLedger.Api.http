@@ -1,0 +1,6 @@
+@AjoLedger.Api_HostAddress = http://localhost:5042
+
+GET {{AjoLedger.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
